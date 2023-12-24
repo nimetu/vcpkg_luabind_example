@@ -1,0 +1,11 @@
+{
+  "name": "luabind",
+  "version": "0.9.1",
+  "description": "luabind",
+  "dependencies": [
+    "boost-build",
+    "lua",
+    "vcpkg-cmake",
+    "vcpkg-cmake-config"
+  ]
+}
